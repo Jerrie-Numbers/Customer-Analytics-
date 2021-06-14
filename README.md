@@ -39,3 +39,6 @@ Utilize *TensorFlow* package to create deep neural network.
  - Preprocess the data: Balance the data; Split data into training, validation and test datasets; 
  - Train the model, create and optimize the actual network with appropriate hyperparameters; 
   - Save the model for future use, employ the model for prediction.
+
+*Reference:*
+[https://www.udemy.com/course/customer-analytics-in-python/](https://www.udemy.com/course/customer-analytics-in-python/)
